@@ -8,7 +8,7 @@ Test you commit to this repository, GitHub Pages will run [Jekyll](https://jekyl
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" height="240" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="Dem_1.mp4" type="video/mp4">
   </video>
 </figure>
