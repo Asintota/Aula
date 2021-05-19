@@ -1,4 +1,4 @@
-# Bienvenido a mi blog de Aula
+# Benvido ao meu blog de aula de Matemáticas de 3ºESO
 You can use the [editor on GitHub](https://github.com/Asintota/Aula/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+
 
 ```markdown
 Syntax highlighted code block
