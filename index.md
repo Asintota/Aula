@@ -1,13 +1,13 @@
 # Benvido ao meu blog de aula.
 
-
+O meu canal de Youtube: infty
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <figure class="video_container">
-  <video controls="true" height="240" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" height="480" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="Dem_1.mp4" type="video/mp4">
   </video>
 </figure>
